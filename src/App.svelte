@@ -7,6 +7,15 @@
   <ul>
     <li>
       <details>
+        <summary>npm install</summary>
+        Run the following command to install all dependencies 
+        <pre>
+          <code class="language-bash">npm install</code>
+        </pre>
+      </details>
+    </li>
+    <li>
+      <details>
       <summary>Set your Site Name</summary>
         <p>Go to index.html and change "Your Title" to the site name you want</p>
         <img src="https://cdn.discordapp.com/attachments/985316850227380244/1023281200997093426/title.png" alt="Set Site Name"> 
