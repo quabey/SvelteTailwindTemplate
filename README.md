@@ -4,6 +4,15 @@
   </div>
   <div class="">
   <ul>
+  <li>
+      <details>
+        <summary>npm install</summary>
+        Run the following command to install all dependencies 
+        <pre>
+          <code class="language-bash">npm install</code>
+        </pre>
+      </details>
+    </li>
     <li>
       <details>
       <summary>Set your Site Name</summary>
